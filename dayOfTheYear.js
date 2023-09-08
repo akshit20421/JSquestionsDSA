@@ -11,6 +11,7 @@ if(date.length==10){
   }
   var currDay=day;
   for(let i=0;i<month-1;i++){
+    console.log(monthsDays[i])
     currDay+=monthsDays[i]
   }
 return currDay
@@ -18,5 +19,5 @@ return currDay
 }
 
 }
-var cll= dayOfYear("2019-01-09");
+var cll= dayOfYear("2019-02-09");
 console.log(cll)
