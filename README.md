@@ -11,7 +11,7 @@ The questions are organized into categories based on data structures and algorit
 - Sorting and Searching
 - Dynamic Programming
 - Recursion
-- And more..
+- And more...
 
 Feel free to explore the categories and choose problems that match your current skill level and learning goals. The solutions are provided in JavaScript, offering insights into various approaches and techniques.
 
