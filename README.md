@@ -1,4 +1,4 @@
-This repository is meant to serve as a practice ground for improving your proficiency in data structures and algorithms using JavaScript. Each problem comes with a description and, where applicable, sample test cases. You are encouraged to attempt solving the problems on your own and then compare your solutions with the provided solutions
+This repository is meant to serve as a practice ground for improving your proficiency in data structures and algorithms using JavaScript. Each problem comes with a description and, where applicable, sample test cases. You are encouraged to attempt solving the problems on your own and then compare your solutions with the provided solutions.
 
 ## Questions
 
